@@ -4,7 +4,7 @@ This repository contains a basic sing-up web page built with Boostrap Studio to 
 
 The project is hosted on githubpages: https://gabrielkunz.github.io/sign-up/
 
-## To-do list
+## To-do
 
 - [x] Design sign-up page
 - [x] Design log-in page
