@@ -1,0 +1,22 @@
+{
+  "name": "sign-up",
+  "version": "1.0.0",
+  "description": "Sign Up Sample Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielkunz/sign-up.git"
+  },
+  "author": "Gabriel Kunz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielkunz/sign-up/issues"
+  },
+  "homepage": "https://github.com/gabrielkunz/sign-up#readme",
+  "dependencies": {
+    "express-handlebars": "^5.3.3"
+  }
+}
