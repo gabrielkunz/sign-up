@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/gabrielkunz/sign-up#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
-    "express-handlebars": "^5.3.3"
+    "express-handlebars": "^5.3.3",
+    "mysql": "^2.18.1"
   }
 }
